@@ -6,6 +6,6 @@ The dataset is from https://github.com/Bob05757/Renewable-energy-generation-inpu
 
 We utilize the dataset of first wind power plant (Wind farm site 1 (Nominal capacity-99MW).xlsx).
 
-We mainly use DNN, CNN and LSTM network. However, we are having the problem of overfitting and still seeking for some helpful suggestions. If we don't consider the time trend of wind power (like code_DNN_Simple.ipynb), the effect is alright. When we add the past wind power into the prediction features, the result is not quite good. 
+We mainly use DNN, CNN and LSTM network. However, we are having the problem of overfitting and still seeking some helpful suggestions. If we don't consider the time trend of wind power (like code_DNN_Simple.ipynb), the effect is alright. When we add the past wind power into the prediction features, the result is not quite good. 
 
 
